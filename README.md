@@ -25,4 +25,4 @@ The database had 6 tables:
 - PowerBI
 - PowerPoint
 
-This project is part of the codeBasics resume project challenge. You can find the more information (here)[https://codebasics.io/event/codebasics-resume-project-challenge]
+This project is part of the codeBasics resume project challenge. You can find the more information [here](https://codebasics.io/event/codebasics-resume-project-challenge)
