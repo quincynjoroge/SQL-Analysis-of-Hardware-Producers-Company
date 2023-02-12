@@ -21,8 +21,8 @@ The database had 6 tables:
 6. fact_sales_monthly: contains monthly sales data for each product.
 
 ## Tools utilized
-- MySQL Workbench
-- PowerBI
-- PowerPoint
+- MySQL Workbench: IDE used to write SQL queries
+- PowerBI: To create visualizations
+- PowerPoint: To create a presentation to effectively communicate the sales insights to the top-level management
 
 This project is part of the codeBasics resume project challenge. You can find the more information [here](https://codebasics.io/event/codebasics-resume-project-challenge)
