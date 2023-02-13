@@ -11,6 +11,8 @@ Atliq Hardwares, a leading producer of computer hardware based in India with wid
 - The SQL queries were executed to gather the data required to answer each of the 10 ad hoc requests.
 - A presentation was created to communicate the insights to the top-level management, who were the target audience.
 
+## Insights
+
 ## Data
 The database had 6 tables:
 1. dim_customer: contains customer-related data
