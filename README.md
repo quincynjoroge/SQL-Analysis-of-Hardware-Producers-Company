@@ -1,4 +1,4 @@
-# SQL PowerBI Analysis of a Computer Hardware Producers Company
+# SQL Analysis of a Computer Hardware Producers Company
 Atliq Hardwares, a leading producer of computer hardware based in India with widespread operations in other countries, has identified a gap in their ability to make quick and informed decisions based on data insights. To address this, the company is seeking to bolster their data analytics team by hiring several junior data analysts.
 
 ## Task
